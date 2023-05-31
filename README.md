@@ -1,3 +1,7 @@
+# RatRace 🐀
+
+A game I made my DM come up with on the spot because I wanted to gamble on rat races in the Afterlife Casino.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
