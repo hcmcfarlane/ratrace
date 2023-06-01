@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import "./App.css";
 import WebFont from "webfontloader";
+import React from "react";
 
 const fonts = {
   google: {
@@ -19,7 +20,8 @@ function App() {
         <h1>Rat Race 🐀</h1>
       </header>
       <main>
-        <p>Body text here</p>
+        <h2>Welcome to the Afterlife Casino!</h2>
+        <p>Please gamble responsibly.</p>
       </main>
     </div>
   );
