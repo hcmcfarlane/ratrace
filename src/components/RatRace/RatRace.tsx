@@ -41,7 +41,6 @@ export function RatRace() {
     <div className="RatRace">
       <h3>Current game – leg {leg}</h3>
 
-      {/* TODO: disable button when leg = 6  */}
       <button onClick={rollLeg} disabled={isGameOver}>
         {rollButtonText}
       </button>
