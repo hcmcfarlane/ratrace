@@ -6,3 +6,8 @@ button {
   border: 3px solid black;
   margin-bottom: 1em;
 }
+
+.start-new {
+  color: white;
+  background-color: #cc2244;
+}
