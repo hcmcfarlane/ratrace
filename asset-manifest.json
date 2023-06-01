@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ratrace/static/css/main.90f167f9.css",
+    "main.js": "/ratrace/static/js/main.0c976c33.js",
+    "static/js/787.a3654ccf.chunk.js": "/ratrace/static/js/787.a3654ccf.chunk.js",
+    "index.html": "/ratrace/index.html",
+    "main.90f167f9.css.map": "/ratrace/static/css/main.90f167f9.css.map",
+    "main.0c976c33.js.map": "/ratrace/static/js/main.0c976c33.js.map",
+    "787.a3654ccf.chunk.js.map": "/ratrace/static/js/787.a3654ccf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90f167f9.css",
+    "static/js/main.0c976c33.js"
+  ]
+}
